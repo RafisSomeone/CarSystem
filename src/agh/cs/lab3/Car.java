@@ -132,6 +132,6 @@ public class Car {
 
     public boolean positionChanged() {
 
-        return true;C:\Users\rafal\IdeaProjects\Projekt1
+        return true;
     }
 }
